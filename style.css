@@ -1,0 +1,26 @@
+body{
+  background: #00ffea;
+  font-family: 'Corinthia', cursive;
+font-family: 'Pacifico', cursive;
+}
+.header_div{
+  background: #ff00aa;
+  color: white;
+}
+.header_div {
+  font-size: 12px;
+  font-weight: bold;
+  font-family: 'Roboto', sans-serif;
+  letter-spacing: 2px;
+}
+.main_div button{
+  margin-top: 30px;
+  font-family: 'Roboto', sans-serif;
+  letter-spacing: 3px;
+  font-weight: bolder;
+  width: 130px;
+}
+
+h4{
+  font-size: 25px;
+}
